@@ -58,3 +58,11 @@ Bestehende Installationen ab 1.6.0 erhalten die Funktion als automatisches Updat
 - Online-Katalogpruefung alle fuenf Sekunden; aktive Downloads und der Offline-Modus werden respektiert.
 
 Das automatische PCK-Update ist rund 296 KB gross. Orbit online oeffnen, Download abwarten, normal schliessen und neu starten. Bestehende Nutzer brauchen keinen neuen Installer.
+
+## Orbit 1.9.0: Weltraumdesign
+
+Die gesamte Oberflaeche verwendet jetzt einen Sternenhintergrund mit Orbitlinien, Indigo-/Violettflaechen und Cyan-Akzenten. Shop, Navigation, Spielseiten, Downloads, Einstellungen und geerbtes Trailerdesign sind aufeinander abgestimmt. Der Shop hat eine grosse Fokusflaeche; die frei waehlbaren Verlaufsfarben bleiben erhalten.
+
+Neue offizielle Titelillustrationen fuer **The Entity** und **IT HEARD YOU** sind im Katalog hinterlegt. Die Motive werden vollstaendig dargestellt, damit Schriftzuege und wichtige Bildteile erhalten bleiben. Es handelt sich um Werbeillustrationen, nicht um Gameplay-Screenshots. Spielversionen, Pakete und Trailer bleiben unveraendert.
+
+Alles kommt automatisch als Launcher-PCK und Online-Cover. Update laden lassen, Orbit normal schliessen und wieder oeffnen – keine Neuinstallation notwendig.
