@@ -26,11 +26,13 @@ Die Versionen **1.5.3**, **1.3.2**, **1.3.1**, **0.2.1** und **0.1.0** sind im S
 
 ## IT HEARD YOU
 
-**Version 1.1.0 ist im Shop verfuegbar.** Horror-Parkour in einer prozeduralen Wasserhalle, jetzt solo oder im Koop fuer bis zu 4 Spieler.
+**Version 1.2.0 ist im Shop verfuegbar.** Horror-Parkour allein oder im Koop fuer bis zu vier Spieler.
 
-- Neues Start- und Pausemenue mit Fortsetzen und neuem Solo-Durchlauf.
-- Internet-Lobby per 6-stelligem Code mit NAT/Relay; alternativ LAN-Direktverbindung ueber UDP 27772.
-- Gemeinsame Aura hoert Wassergeraeusche aller Spieler. Seeds und Plattformbewegungen sind synchronisiert.
-- Naechstes Level, wenn alle den Ausgang erreicht haben. Solo-Spielstaende bleiben von Koop getrennt.
+- Menschliche Spielerfiguren mit Gesicht, Kleidung, Rucksack und Laufbewegungen; unterscheidbare Farben und Namen.
+- Einfaches Hauptmenue mit Alleine spielen, Mit Freunden, Einstellungen und Beenden. Getrennte Seiten fuer Solo, Lobby, Codebeitritt, LAN und Warteraum.
+- Zwei Leben pro Koop-Level: erster Fang setzt zurueck; zweiter Fang eliminiert und laesst dich dem ueberlebenden Team zuschauen.
+- Nur Ueberlebende muessen den Ausgang erreichen. Im naechsten Level starten alle wieder mit zwei Leben.
+- Nach Teamniederlage kann der Host dasselbe Level mit demselben Seed wiederholen. R-Neustart ist im Koop gesperrt.
+- Solo-Spielstaende bleiben kompatibel. **Alle Mitspieler muessen auf 1.2.0 aktualisieren (Koop-Protokoll 2).**
 
-Im Launcher den Katalog aktualisieren oder Orbit neu starten; bei einem installierten Spiel auf **Aktualisieren** klicken. Eine Neuinstallation des Launchers ist nicht erforderlich.
+Orbit neu starten oder den Katalog aktualisieren, dann beim Spiel auf **Aktualisieren** klicken. Ein neuer Launcher ist nicht erforderlich.
