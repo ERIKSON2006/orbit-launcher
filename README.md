@@ -66,3 +66,13 @@ Die gesamte Oberflaeche verwendet jetzt einen Sternenhintergrund mit Orbitlinien
 Neue offizielle Titelillustrationen fuer **The Entity** und **IT HEARD YOU** sind im Katalog hinterlegt. Die Motive werden vollstaendig dargestellt, damit Schriftzuege und wichtige Bildteile erhalten bleiben. Es handelt sich um Werbeillustrationen, nicht um Gameplay-Screenshots. Spielversionen, Pakete und Trailer bleiben unveraendert.
 
 Alles kommt automatisch als Launcher-PCK und Online-Cover. Update laden lassen, Orbit normal schliessen und wieder oeffnen – keine Neuinstallation notwendig.
+
+## Orbit 1.10.0: transparente Flaechen und automatischer Neustart
+
+Die Oberflaeche ist vereinfacht: transparente Kopf-, Seiten- und Fussbereiche lassen Sterne, Nebel und Ringplanet durchscheinen. Im Shop stehen Spielbilder und die Aktionen Ansehen/Trailer im Mittelpunkt; zusaetzliche Werbe- und Infokaesten entfallen.
+
+Launcher-Updates starten Orbit nach dem geprueften Download automatisch neu, mit einem fuenfsekundigen Countdown. Laufende Spiele, Installationen, Warteschlangen und geoeffnete Trailer werden abgewartet. Die Option laesst sich unter Einstellungen > Allgemein abschalten. Die vorhandene EXE wird weiterverwendet; erst nach ihrem Beenden startet Godot sie erneut mit der neuen PCK. Fehler beim Pruefen oder Ersetzen loesen keinen wiederholten Neustart aus.
+
+**Fuer den Wechsel von einer aelteren Version auf 1.10.0 ist noch einmal Schliessen und Oeffnen erforderlich. Erst danach ist der automatische Neustart fuer kuenftige Launcher-Updates aktiv. Keine Neuinstallation erforderlich.**
+
+The Entity verwendet jetzt die gewuenschte stilisierte Titelillustration v2. Das Low-Poly-Cover von IT HEARD YOU, alle Spielversionen und der Trailer bleiben erhalten.
