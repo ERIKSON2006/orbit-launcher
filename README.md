@@ -4,16 +4,16 @@
 
 ZIP entpacken und **Orbit.exe** starten. Keine GitHub-Anmeldung erforderlich.
 
-## Version 1.3.0
+## Version 1.3.1
 
-Ueberarbeitete Gestaltung mit grosser Spielgrafik, einheitlicher Typografie und Linienicons, klarer Navigation und abgestimmten dunklen Farben. Jedes Spiel erscheint einmal; aeltere Versionen liegen in der geschlossenen Versionsauswahl neben Installieren/Spielen.
+Eigenes Orbit-Symbol fuer Windows-EXE, Desktop-Verknuepfungen, Fenster und Taskleiste. Die kompakte Bibliothek und das ueberarbeitete Design bleiben erhalten.
 
-**Update:** Einstellungen oeffnen, **Nach Launcher-Update suchen**, danach den Launcher neu starten. Eine neue EXE ist fuer dieses Design-Update nicht erforderlich.
+**Neues Desktop-Symbol:** Vorhandene Benutzer laden die aktuelle ZIP einmal neu herunter und ersetzen ihre alte Orbit.exe. Ein reines Launcher-PCK-Update kann das Symbol der EXE-Datei auf dem Desktop nicht aendern. Installierte Spiele und Einstellungen bleiben erhalten.
+
+**Weitere Oberflaechen-Updates:** Einstellungen oeffnen, nach Launcher-Updates suchen und neu starten.
 
 ## The Entity
 
-Verfuegbar sind **1.5.3**, **1.3.2**, **1.3.1**, **0.2.1** und **0.1.0**. Die Auswahl wird gespeichert. Alle Versionen koennen weiterhin parallel installiert werden.
-
-Favoriten, Downloads, Dateipruefung, Reparatur, Spielstatistiken und Einstellungen sind enthalten. Neue Spiele erscheinen durch Aktualisieren des Online-Katalogs. Bereits installierte Spiele sind auch offline startbar.
+Die Versionen **1.5.3**, **1.3.2**, **1.3.1**, **0.2.1** und **0.1.0** sind ueber die geschlossene Versionsauswahl erreichbar und weiterhin parallel installierbar. Neue Spiele erscheinen durch Aktualisieren des Online-Katalogs. Installierte Spiele lassen sich auch offline starten.
 
 [Alle Downloads und Aenderungen](https://github.com/ERIKSON2006/orbit-launcher/releases/tag/launcher)
