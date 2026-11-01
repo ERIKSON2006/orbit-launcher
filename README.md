@@ -26,7 +26,7 @@ Die Versionen **1.5.3**, **1.3.2**, **1.3.1**, **0.2.1** und **0.1.0** sind im S
 
 ## IT HEARD YOU
 
-**Version 1.3.1 ist im Shop verfuegbar – jetzt mit Trailer direkt im Launcher.** Horror-Parkour solo oder im Koop fuer bis zu vier Spieler.
+**Version 1.4.0 ist im Shop verfuegbar – jetzt mit Trailer direkt im Launcher.** Horror-Parkour solo oder im Koop fuer bis zu vier Spieler.
 
 - Shift halten zum Sprinten. Kein eigener Koerper in der Egoansicht; die anderen Spielerfiguren bleiben sichtbar.
 - Rote Plattformen warnen, sinken nach kurzer Belastung und tauchen spaeter wieder auf. Im Koop synchronisiert der Host die Zustaende aller Spieler.
@@ -82,3 +82,13 @@ The Entity verwendet jetzt die gewuenschte stilisierte Titelillustration v2. Das
 Dauerhafte Hallen-/Rauschschleife deaktiviert und Breitbandrauschen aus Hallen- und Jagdgeraeusch entfernt. Das Jagdgeraeusch ist jetzt ein tiefer pulsierender Klang, der nur bei Verfolgung spielt und nach dem Ausblenden stoppt. Schritte, Platschen, Tropfen sowie Warn- und Fanggeraeusche bleiben erhalten. Gameplay und Netzwerk unveraendert; Koop-Protokoll 3 bleibt mit 1.3.0 kompatibel. Low-Poly-Titelbild und Trailer bleiben erhalten.
 
 Neuinstallation, Update 1.3.0 auf 1.3.1 und Start der oeffentlich heruntergeladenen Fassung geprueft. Solo-Spielstaende bleiben erhalten. Das Spiel kann im Launcher aktualisiert werden; kein neuer Launcher erforderlich.
+
+## IT HEARD YOU 1.4.0: Grafikupdate
+
+Neue Beton- und Metallmaterialien mit Normalmaps, Wasserlinien und Korrosion; ausgearbeitete Industriehalle mit Rohren, Stahlstreben und Lampengehaeusen. Dynamische planare Wasserreflexionen, Oberflaechenwellen und Platsch-Ringwellen, Taschenlampenschatten, warmes Notlicht und Filmic-Tonemapping. Die Mitspielerfiguren haben weichere Kanten.
+
+**Grafik Hoch benoetigt mehr GPU-Leistung als 1.3.1.** Unter Einstellungen steht ein Leistungsmodus bereit, der Reflexionen, Taschenlampenschatten und 2x MSAA deaktiviert. Reflexionen sind im Menue ausgeschaltet; entfernte Lampen und wiederholte Dekoration werden sparsamer verarbeitet.
+
+Route, Schwierigkeit, zwei Leben, Speichern und Koop-Protokoll bleiben unveraendert. Weiterhin mit 1.3.x kompatibel. Der Audio-Hotfix bleibt erhalten. Low-Poly-Titelbild und bisheriger Trailer werden weiterverwendet.
+
+Oeffentliche Neuinstallation, Upgrade von 1.3.1, Exportressourcen und Spielstart wurden erfolgreich geprueft. Solo-Spielstaende bleiben erhalten. Im Launcher das Spiel auf 1.4.0 aktualisieren; kein neuer Launcher erforderlich.
