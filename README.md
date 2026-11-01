@@ -23,3 +23,9 @@ Installierte Spiele und Einstellungen bleiben bei einer erneuten Installation er
 Die Versionen **1.5.3**, **1.3.2**, **1.3.1**, **0.2.1** und **0.1.0** sind im Shop verfuegbar. Aeltere Versionen liegen in der geschlossenen Versionsauswahl und bleiben parallel installierbar. Installierte Spiele lassen sich offline starten.
 
 [Alle Downloads und Aenderungen](https://github.com/ERIKSON2006/orbit-launcher/releases/tag/launcher)
+
+## IT HEARD YOU
+
+**Version 1.0.0 ist jetzt im Shop verfuegbar.** Ein Horror-Parkour-Spiel in einer prozeduralen Wasserhalle: Springe ueber Bloecke zum Ausgang und vermeide Wassergeraeusche, denn die blinde Aura hoert dich. Ab Level 5 bewegen sich Plattformen. Dein aktuelles Level wird lokal gespeichert.
+
+Im Launcher den Katalog aktualisieren oder Orbit neu starten. Eine Neuinstallation ist nicht erforderlich.
