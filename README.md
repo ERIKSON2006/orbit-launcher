@@ -26,7 +26,7 @@ Die Versionen **1.5.3**, **1.3.2**, **1.3.1**, **0.2.1** und **0.1.0** sind im S
 
 ## IT HEARD YOU
 
-**Version 1.4.0 ist im Shop verfuegbar – jetzt mit Trailer direkt im Launcher.** Horror-Parkour solo oder im Koop fuer bis zu vier Spieler.
+**Version 1.5.0 ist im Shop verfuegbar – jetzt mit Trailer direkt im Launcher.** Horror-Parkour solo oder im Koop fuer bis zu vier Spieler.
 
 - Shift halten zum Sprinten. Kein eigener Koerper in der Egoansicht; die anderen Spielerfiguren bleiben sichtbar.
 - Rote Plattformen warnen, sinken nach kurzer Belastung und tauchen spaeter wieder auf. Im Koop synchronisiert der Host die Zustaende aller Spieler.
@@ -92,3 +92,13 @@ Neue Beton- und Metallmaterialien mit Normalmaps, Wasserlinien und Korrosion; au
 Route, Schwierigkeit, zwei Leben, Speichern und Koop-Protokoll bleiben unveraendert. Weiterhin mit 1.3.x kompatibel. Der Audio-Hotfix bleibt erhalten. Low-Poly-Titelbild und bisheriger Trailer werden weiterverwendet.
 
 Oeffentliche Neuinstallation, Upgrade von 1.3.1, Exportressourcen und Spielstart wurden erfolgreich geprueft. Solo-Spielstaende bleiben erhalten. Im Launcher das Spiel auf 1.4.0 aktualisieren; kein neuer Launcher erforderlich.
+
+## IT HEARD YOU 1.5.0: Grafik und Sound
+
+Forward+ mit D3D12 ist jetzt Standard: volumetrischer Nebel mit Lichtstreuung, Schatten, SSAO, dezentes Glow und eine besser sichtbare Halle. Abgeschraegte Plattformkanten ohne veraenderte Kollisionen, feinere Betonmaterialien und schaerfere planare Wasserreflexionen. **Hoeherer GPU-Aufwand als 1.4.0**; Hoch/Leistung schaltet die aufwendigen Effekte und speichert die Auswahl. Fuer aeltere GPUs liegt **Kompatibilitaetsmodus.cmd** fuer den OpenGL-Start bei.
+
+26 neue gemasterte Foley-Aufnahmen: Schritte, Wasser, Kleidung, Metall, Tropfen, Aura, Herzschlag und Tueren. Varianten ohne direkte Samplewiederholung, natuerliche Tonhoehenvariation, raeumliche Mitspieler-Schritte, Hall und passende Daempfung. Begrenzte Stimmen, Master-Limiter und gespeicherter Lautstaerkeregler; keine dauerhafte Rauschschleife. Quellen und Bearbeitungen stehen in **AUDIO-CREDITS.txt**.
+
+Low-Poly-Titelbild und bestehender Trailer bleiben erhalten. Koop-Protokoll 3 bleibt mit 1.3/1.4 kompatibel; fuer gleiche Grafik und Sounds wird allen 1.5.0 empfohlen. Solo-Spielstaende werden beim Update nicht veraendert.
+
+Oeffentliche Neuinstallation, Upgrade von 1.4.0, alle 26 exportierten Foley-Ressourcen und echte Fensterstarts mit D3D12/Forward+ sowie OpenGL wurden geprueft. Bekannte Godot-Aufraeumwarnungen beim Testende sind damit nicht als behoben zu verstehen. Im Launcher das Spiel aktualisieren; kein neuer Launcher erforderlich.
