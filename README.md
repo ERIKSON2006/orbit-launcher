@@ -26,7 +26,7 @@ Die Versionen **1.5.3**, **1.3.2**, **1.3.1**, **0.2.1** und **0.1.0** sind im S
 
 ## IT HEARD YOU
 
-**Version 1.3.0 ist im Shop verfuegbar – jetzt mit Trailer direkt im Launcher.** Horror-Parkour solo oder im Koop fuer bis zu vier Spieler.
+**Version 1.3.1 ist im Shop verfuegbar – jetzt mit Trailer direkt im Launcher.** Horror-Parkour solo oder im Koop fuer bis zu vier Spieler.
 
 - Shift halten zum Sprinten. Kein eigener Koerper in der Egoansicht; die anderen Spielerfiguren bleiben sichtbar.
 - Rote Plattformen warnen, sinken nach kurzer Belastung und tauchen spaeter wieder auf. Im Koop synchronisiert der Host die Zustaende aller Spieler.
@@ -76,3 +76,9 @@ Launcher-Updates starten Orbit nach dem geprueften Download automatisch neu, mit
 **Fuer den Wechsel von einer aelteren Version auf 1.10.0 ist noch einmal Schliessen und Oeffnen erforderlich. Erst danach ist der automatische Neustart fuer kuenftige Launcher-Updates aktiv. Keine Neuinstallation erforderlich.**
 
 The Entity verwendet jetzt die gewuenschte stilisierte Titelillustration v2. Das Low-Poly-Cover von IT HEARD YOU, alle Spielversionen und der Trailer bleiben erhalten.
+
+## IT HEARD YOU 1.3.1: Audio-Hotfix
+
+Dauerhafte Hallen-/Rauschschleife deaktiviert und Breitbandrauschen aus Hallen- und Jagdgeraeusch entfernt. Das Jagdgeraeusch ist jetzt ein tiefer pulsierender Klang, der nur bei Verfolgung spielt und nach dem Ausblenden stoppt. Schritte, Platschen, Tropfen sowie Warn- und Fanggeraeusche bleiben erhalten. Gameplay und Netzwerk unveraendert; Koop-Protokoll 3 bleibt mit 1.3.0 kompatibel. Low-Poly-Titelbild und Trailer bleiben erhalten.
+
+Neuinstallation, Update 1.3.0 auf 1.3.1 und Start der oeffentlich heruntergeladenen Fassung geprueft. Solo-Spielstaende bleiben erhalten. Das Spiel kann im Launcher aktualisiert werden; kein neuer Launcher erforderlich.
