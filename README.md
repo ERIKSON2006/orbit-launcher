@@ -102,3 +102,9 @@ Forward+ mit D3D12 ist jetzt Standard: volumetrischer Nebel mit Lichtstreuung, S
 Low-Poly-Titelbild und bestehender Trailer bleiben erhalten. Koop-Protokoll 3 bleibt mit 1.3/1.4 kompatibel; fuer gleiche Grafik und Sounds wird allen 1.5.0 empfohlen. Solo-Spielstaende werden beim Update nicht veraendert.
 
 Oeffentliche Neuinstallation, Upgrade von 1.4.0, alle 26 exportierten Foley-Ressourcen und echte Fensterstarts mit D3D12/Forward+ sowie OpenGL wurden geprueft. Bekannte Godot-Aufraeumwarnungen beim Testende sind damit nicht als behoben zu verstehen. Im Launcher das Spiel aktualisieren; kein neuer Launcher erforderlich.
+
+## IT HEARD YOU: Was unter uns bleibt
+
+Die Spielseite enthaelt jetzt eine klar als Erzaehlentwurf gekennzeichnete Hintergrundgeschichte. **Dialogaufnahmen, Technikraum und erzaehlerisches Finale sind noch nicht im Spiel umgesetzt.** Spieltitel, Version und Downloads bleiben unveraendert.
+
+**Spoilerhinweis – der Volltext verraet das vorgesehene Ende:** [Vollstaendige Geschichte lesen](https://github.com/ERIKSON2006/orbit-launcher/releases/download/launcher/it-heard-you-geschichte-858306f09664e6170d86.md).
