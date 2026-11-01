@@ -14,7 +14,7 @@ Der Installer richtet den vollstaendigen Launcher fuer deinen Windows-Benutzer e
 
 ## Automatische Updates
 
-Ab Launcher-Version 1.6.0 werden Launcher-Updates standardmaessig beim Start und alle fuenf Minuten geprueft und automatisch geladen. Beim normalen Schliessen wird ein bereitliegendes Update uebernommen; beim naechsten Start ist es aktiv. Laufende Spiele werden nicht unterbrochen.
+Ab Launcher-Version 1.6.0 werden Launcher-Updates standardmaessig beim Start und ab Version 1.8.0 alle fuenf Sekunden geprueft und automatisch geladen. Beim normalen Schliessen wird ein bereitliegendes Update uebernommen; beim naechsten Start ist es aktiv. Laufende Spiele werden nicht unterbrochen.
 
 Installierte Spiele und Einstellungen bleiben bei einer erneuten Installation erhalten. Die Deinstallation des Launchers ist ueber Windows moeglich; die separat gespeicherten Spieldaten werden dabei nicht geloescht.
 
@@ -45,3 +45,16 @@ Orbit neu starten oder den Katalog aktualisieren und das Spiel ueber **Aktualisi
 Trailer koennen direkt auf der Spielseite abgespielt werden: mit Pause, Neustart und Stummschaltung. Das Video wird erst beim Anklicken geladen, auf Vollstaendigkeit und SHA-256 geprueft und fuer weitere Aufrufe offline zwischengespeichert. Der Button erscheint bei Spielen, fuer die ein Trailer hinterlegt ist.
 
 Bestehende Installationen ab 1.6.0 erhalten die Funktion als automatisches Update (ca. 279 KB). Orbit online oeffnen, den Update-Download abwarten, normal schliessen und erneut starten. Kein neuer Installer erforderlich. Der Trailer von IT HEARD YOU ist jetzt hinterlegt.
+
+## Orbit 1.8.0: mehr entdecken, besser lesbar
+
+- Eigener Shop mit Spielkarten, Trailern und einer freundlichen Entdeckeransicht. Die Bibliothek zeigt installierte Spiele mit ihren Details.
+- Groessere, kontrastreichere Schrift, sofort einstellbare Textgroesse und dezente Seiten-, Karten- und Hoveranimationen.
+- Hintergrund mit zwei frei waehlbaren Verlaufsfarben und den Vorlagen Ozean, Abend und Wald.
+- Downloadlimit in MiB/s fuer Spiel- und Launcherpakete: 0 ist unbegrenzt; Aenderungen gelten ab dem naechsten Download. Trailer werden separat geladen.
+- Windows-Autostart laesst sich in den Einstellungen ein- und ausschalten.
+- Spielzeit, Spielstarts, letzte Aktivitaet und laengste Sitzung pro Spiel; erfasst, solange Orbit geoeffnet ist. Historische Startzahlen vor 1.8.0 sind nicht enthalten.
+- Achievements vorbereitet: Definitionen aus dem Katalog, lokale Freischaltungen und Spielanbindung. Die Spiele muessen ihre Erfolge erst integrieren.
+- Online-Katalogpruefung alle fuenf Sekunden; aktive Downloads und der Offline-Modus werden respektiert.
+
+Das automatische PCK-Update ist rund 296 KB gross. Orbit online oeffnen, Download abwarten, normal schliessen und neu starten. Bestehende Nutzer brauchen keinen neuen Installer.
