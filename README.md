@@ -36,3 +36,9 @@ Die Versionen **1.5.3**, **1.3.2**, **1.3.1**, **0.2.1** und **0.1.0** sind im S
 - Solo-Spielstaende bleiben kompatibel. **Alle Mitspieler muessen auf 1.2.0 aktualisieren (Koop-Protokoll 2).**
 
 Orbit neu starten oder den Katalog aktualisieren, dann beim Spiel auf **Aktualisieren** klicken. Ein neuer Launcher ist nicht erforderlich.
+
+## Launcher 1.7.0: Trailer
+
+Trailer koennen direkt auf der Spielseite abgespielt werden: mit Pause, Neustart und Stummschaltung. Das Video wird erst beim Anklicken geladen, auf Vollstaendigkeit und SHA-256 geprueft und fuer weitere Aufrufe offline zwischengespeichert. Der Button erscheint bei Spielen, fuer die ein Trailer hinterlegt ist.
+
+Bestehende Installationen ab 1.6.0 erhalten die Funktion als automatisches Update (ca. 279 KB). Orbit online oeffnen, den Update-Download abwarten, normal schliessen und erneut starten. Kein neuer Installer erforderlich. Eigene Trailerdateien sind noch nicht hinterlegt.
