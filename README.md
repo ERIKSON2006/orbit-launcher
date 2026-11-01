@@ -26,6 +26,11 @@ Die Versionen **1.5.3**, **1.3.2**, **1.3.1**, **0.2.1** und **0.1.0** sind im S
 
 ## IT HEARD YOU
 
-**Version 1.0.0 ist jetzt im Shop verfuegbar.** Ein Horror-Parkour-Spiel in einer prozeduralen Wasserhalle: Springe ueber Bloecke zum Ausgang und vermeide Wassergeraeusche, denn die blinde Aura hoert dich. Ab Level 5 bewegen sich Plattformen. Dein aktuelles Level wird lokal gespeichert.
+**Version 1.1.0 ist im Shop verfuegbar.** Horror-Parkour in einer prozeduralen Wasserhalle, jetzt solo oder im Koop fuer bis zu 4 Spieler.
 
-Im Launcher den Katalog aktualisieren oder Orbit neu starten. Eine Neuinstallation ist nicht erforderlich.
+- Neues Start- und Pausemenue mit Fortsetzen und neuem Solo-Durchlauf.
+- Internet-Lobby per 6-stelligem Code mit NAT/Relay; alternativ LAN-Direktverbindung ueber UDP 27772.
+- Gemeinsame Aura hoert Wassergeraeusche aller Spieler. Seeds und Plattformbewegungen sind synchronisiert.
+- Naechstes Level, wenn alle den Ausgang erreicht haben. Solo-Spielstaende bleiben von Koop getrennt.
+
+Im Launcher den Katalog aktualisieren oder Orbit neu starten; bei einem installierten Spiel auf **Aktualisieren** klicken. Eine Neuinstallation des Launchers ist nicht erforderlich.
